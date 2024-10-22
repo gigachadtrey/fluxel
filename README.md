@@ -8,6 +8,12 @@ say "Hi"
 
 typewriter "Hello!" 3
 
+window "Window1"
+
+button "Hello World!"
+
+show window
+
 A full demo:
 
 ask "Whats your name?"
