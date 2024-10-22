@@ -1,5 +1,7 @@
 Fluxel is an in development, easy to use python interpreter.
 
+You can modify fluxel and email trey6383@outlook.com with the modified fluxel, and ill add it to pip.
+
 commands:
 
 say "Hi"
