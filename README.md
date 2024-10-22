@@ -4,6 +4,10 @@ You can modify fluxel and email trey6383@outlook.com with the modified fluxel, a
 
 commands:
 
+var name = "Trey"
+
+typewriter "" + name + " is a cool dude!"
+
 say "Hi"
 
 typewriter "Hello!" 3
@@ -13,6 +17,14 @@ window "Window1"
 button "Hello World!"
 
 show window
+
+typewriteask "Hows your day today?"
+
+remember variable
+
+(beta) google gemini integration
+
+more (i may have forgot some of them)
 
 A full demo:
 
