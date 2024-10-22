@@ -1,6 +1,6 @@
 Fluxel is an in development, easy to use python interpreter.
 
-You can modify fluxel and email ![Me](trey6383@outlook.com) with the modified fluxel, and ill add it to pip.
+You can modify fluxel and email trey6383@outlook.com with the modified fluxel, and ill add it to pip.
 ![fluxellogo](https://github.com/user-attachments/assets/2da23811-dfe8-46e9-aaf0-4594051faf5f)
 
 commands:
