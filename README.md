@@ -1,5 +1,6 @@
 Fluxel is an in development, easy to use python interpreter.
 
+
 You can modify fluxel and email trey6383@outlook.com with the modified fluxel, and ill add it to pip.
 ![fluxellogo](https://github.com/user-attachments/assets/2da23811-dfe8-46e9-aaf0-4594051faf5f)
 
@@ -42,8 +43,10 @@ say " " + name + "? Thats a cool name.
 
 
 
-run 
+## Installation
 
 pip install fluxel
 
-to install
+OR (verified method (verified by me))
+
+
